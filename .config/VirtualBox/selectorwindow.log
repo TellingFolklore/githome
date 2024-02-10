@@ -1,0 +1,23 @@
+00:00:00.310317 VirtualBox GUI VM Selector Window 7.0.14 r161095 linux.amd64 (Jan 19 2024 13:54:29) release log
+00:00:00.310319 Log opened 2024-02-10T10:51:50.442510000Z
+00:00:00.310320 Build Type: release
+00:00:00.310322 OS Product: Linux
+00:00:00.310323 OS Release: 6.7.4-arch1-1
+00:00:00.310324 OS Version: #1 SMP PREEMPT_DYNAMIC Mon, 05 Feb 2024 22:07:49 +0000
+00:00:00.310341 DMI Product Name: HP EliteBook x360 1030 G3
+00:00:00.310349 DMI Product Version: 
+00:00:00.310354 Firmware type: UEFI
+00:00:00.310998 Secure Boot: Disabled
+00:00:00.311035 Host RAM: 15841MB (15.4GB) total, 15365MB (15.0GB) available
+00:00:00.311038 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.311038 Process ID: 27835
+00:00:00.311038 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.311064 Qt version: 5.15.12
+00:00:00.311803 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.318881 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.793033 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: -1x24 x 958x1053
+00:00:00.806571 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:24.348408 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:24.676144 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:26.820128 GUI: UICommon: Handling aboutToQuit request..
+00:00:27.671163 GUI: UICommon: aboutToQuit request handled!

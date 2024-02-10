@@ -1,0 +1,12 @@
+2024/02/10-13:08:27.556 293 Reusing MANIFEST /home/tf/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/10-13:08:27.556 293 Recovering log #12
+2024/02/10-13:08:27.581 293 Reusing old log /home/tf/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000012.log 
+2024/02/10-13:25:54.245 26d Level-0 table #17: started
+2024/02/10-13:25:54.263 26d Level-0 table #17: 1411463 bytes OK
+2024/02/10-13:25:54.269 26d Delete type=0 #12
+2024/02/10-13:26:01.910 277 Compacting 1@1 + 1@2 files
+2024/02/10-13:26:01.925 277 Generated table #18@1: 366 keys, 59914 bytes
+2024/02/10-13:26:01.926 277 Compacted 1@1 + 1@2 files => 59914 bytes
+2024/02/10-13:26:01.930 277 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/10-13:26:01.930 277 Delete type=2 #14
+2024/02/10-13:26:01.930 277 Delete type=2 #17

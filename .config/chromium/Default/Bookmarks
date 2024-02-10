@@ -1,0 +1,58 @@
+{
+   "checksum": "4a3e1b15e56da9f04d65307de6dbfb27",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13351950916638441",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13351952020396560",
+            "date_last_used": "13351952432435915",
+            "guid": "e4353dec-5fde-4a04-809f-9301f1da9063",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "KubuntuLaptopKeycodes - Ubuntu Wiki",
+            "type": "url",
+            "url": "https://wiki.ubuntu.com/KubuntuLaptopKeycodes"
+         }, {
+            "date_added": "13351975921355447",
+            "date_last_used": "0",
+            "guid": "41a7c80f-d3f9-45c4-b41b-bf07ca7b71c2",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Windscribe - Free Proxy and Ad Blocker",
+            "type": "url",
+            "url": "https://chromewebstore.google.com/detail/windscribe-free-proxy-and/hnmpcagpplmpfojmgmnngilcnanddlhb"
+         } ],
+         "date_added": "13351950916638445",
+         "date_last_used": "0",
+         "date_modified": "13351975921355447",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13351950916638448",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,28 @@
+2024/02/10-18:56:40.776 8cfc Reusing MANIFEST /home/tf/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/10-18:56:40.777 8cfc Recovering log #16
+2024/02/10-18:56:40.797 8cfc Reusing old log /home/tf/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000016.log 
+2024/02/10-18:56:45.499 8cff Level-0 table #21: started
+2024/02/10-18:56:45.536 8cff Level-0 table #21: 1312228 bytes OK
+2024/02/10-18:56:45.550 8cff Delete type=0 #16
+2024/02/10-18:57:46.636 8cfd Compacting 1@1 + 1@2 files
+2024/02/10-18:57:46.651 8cfd Generated table #22@1: 390 keys, 37531 bytes
+2024/02/10-18:57:46.651 8cfd Compacted 1@1 + 1@2 files => 37531 bytes
+2024/02/10-18:57:46.655 8cfd compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/10-18:57:46.656 8cfd Delete type=2 #21
+2024/02/10-18:57:46.656 8cfd Delete type=2 #18
+2024/02/10-20:17:14.782 8cfd Level-0 table #24: started
+2024/02/10-20:17:14.811 8cfd Level-0 table #24: 1116163 bytes OK
+2024/02/10-20:17:14.817 8cfd Delete type=0 #20
+2024/02/10-20:30:31.846 8cfd Compacting 1@1 + 1@2 files
+2024/02/10-20:30:31.856 8cfd Generated table #25@1: 441 keys, 47329 bytes
+2024/02/10-20:30:31.856 8cfd Compacted 1@1 + 1@2 files => 47329 bytes
+2024/02/10-20:30:31.861 8cfd compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/10-20:30:31.862 8cfd Delete type=2 #22
+2024/02/10-20:30:31.862 8cfd Delete type=2 #24
+2024/02/10-22:38:31.358 8cff Level-0 table #27: started
+2024/02/10-22:38:31.376 8cff Level-0 table #27: 1365491 bytes OK
+2024/02/10-22:38:31.382 8cff Delete type=0 #23
+2024/02/10-22:38:33.626 8cff Compacting 1@1 + 1@2 files
+2024/02/10-22:38:33.644 8cff Generated table #28@1: 499 keys, 41967 bytes
+2024/02/10-22:38:33.644 8cff Compacted 1@1 + 1@2 files => 41967 bytes
+2024/02/10-22:38:33.648 8cff compacted to: files[ 0 0 1 0 0 0 0 ]

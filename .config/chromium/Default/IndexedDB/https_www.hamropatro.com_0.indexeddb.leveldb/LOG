@@ -1,0 +1,6 @@
+2024/02/11-22:04:00.458 74e Creating DB /home/tf/.config/chromium/Default/IndexedDB/https_www.hamropatro.com_0.indexeddb.leveldb since it was missing.
+2024/02/11-22:04:00.468 74e Reusing MANIFEST /home/tf/.config/chromium/Default/IndexedDB/https_www.hamropatro.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/11-22:25:46.163 74f Level-0 table #5: started
+2024/02/11-22:25:46.167 74f Level-0 table #5: 1117 bytes OK
+2024/02/11-22:25:46.172 74f Delete type=0 #3
+2024/02/11-22:25:46.172 74f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

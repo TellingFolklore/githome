@@ -1,14 +1,14 @@
-2024/02/13-01:56:49.045 fe4f Reusing MANIFEST /home/tf/.config/chromium/Default/IndexedDB/chrome-extension_hnmpcagpplmpfojmgmnngilcnanddlhb_0.indexeddb.leveldb/MANIFEST-000001
-2024/02/13-01:56:49.046 fe4f Recovering log #65
-2024/02/13-01:56:49.052 fe4f Reusing old log /home/tf/.config/chromium/Default/IndexedDB/chrome-extension_hnmpcagpplmpfojmgmnngilcnanddlhb_0.indexeddb.leveldb/000065.log 
-2024/02/13-01:56:49.052 fe4f Delete type=2 #63
-2024/02/13-01:56:49.264 fd80 Level-0 table #70: started
-2024/02/13-01:56:49.268 fd80 Level-0 table #70: 23706 bytes OK
-2024/02/13-01:56:49.279 fd80 Delete type=0 #65
-2024/02/13-01:56:49.279 fd80 Manual compaction at level-0 from '\x00\x15\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at '\x00\x15\x01\x1f\x01\x0b\x00h\x00e\x00l\x00l\x00o\x00 \x00w\x00o\x00r\x00l\x00d\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 10170 : 1
-2024/02/13-01:56:49.279 fd80 Compacting 1@0 + 1@1 files
-2024/02/13-01:56:49.285 fd80 Generated table #71@0: 1794 keys, 79614 bytes
-2024/02/13-01:56:49.285 fd80 Compacted 1@0 + 1@1 files => 79614 bytes
-2024/02/13-01:56:49.290 fd80 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/02/13-01:56:49.290 fd80 Delete type=2 #70
-2024/02/13-01:56:49.290 fd80 Manual compaction at level-0 from '\x00\x15\x01\x1f\x01\x0b\x00h\x00e\x00l\x00l\x00o\x00 \x00w\x00o\x00r\x00l\x00d\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 10170 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/13-01:57:34.952 10016 Reusing MANIFEST /home/tf/.config/chromium/Default/IndexedDB/chrome-extension_hnmpcagpplmpfojmgmnngilcnanddlhb_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/13-01:57:34.953 10016 Recovering log #69
+2024/02/13-01:57:34.953 10016 Reusing old log /home/tf/.config/chromium/Default/IndexedDB/chrome-extension_hnmpcagpplmpfojmgmnngilcnanddlhb_0.indexeddb.leveldb/000069.log 
+2024/02/13-01:57:34.954 10016 Delete type=2 #67
+2024/02/13-01:57:35.188 ff59 Level-0 table #74: started
+2024/02/13-01:57:35.192 ff59 Level-0 table #74: 2048 bytes OK
+2024/02/13-01:57:35.199 ff59 Delete type=0 #69
+2024/02/13-01:57:35.200 ff59 Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at '\x00\x16\x01\x1f\x01\x0b\x00h\x00e\x00l\x00l\x00o\x00 \x00w\x00o\x00r\x00l\x00d\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 10300 : 1
+2024/02/13-01:57:35.200 ff59 Compacting 1@0 + 1@1 files
+2024/02/13-01:57:35.206 ff59 Generated table #75@0: 1794 keys, 79624 bytes
+2024/02/13-01:57:35.206 ff59 Compacted 1@0 + 1@1 files => 79624 bytes
+2024/02/13-01:57:35.213 ff59 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/13-01:57:35.213 ff59 Delete type=2 #74
+2024/02/13-01:57:35.214 ff59 Manual compaction at level-0 from '\x00\x16\x01\x1f\x01\x0b\x00h\x00e\x00l\x00l\x00o\x00 \x00w\x00o\x00r\x00l\x00d\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 10300 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)

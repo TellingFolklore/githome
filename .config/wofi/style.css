@@ -1,0 +1,21 @@
+*{
+	border-radius: 10px;
+	}
+
+#input{
+	padding: 7px;
+	background-color: rgba(36, 36, 36, 0.8)
+}
+
+window{
+	background-color: rgba(36,36,36,0.8);
+}
+
+#img{
+	margin: 5px;
+	margin-right: 10px
+}
+
+#entry:selected{
+	background-color: rgba(64, 64, 64 ,0.8);
+}

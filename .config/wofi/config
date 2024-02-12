@@ -1,0 +1,10 @@
+mode = drun
+width = 25%
+prompt = Run
+allow_images = true
+term = foot
+hide_scroll = true
+insensitive = true
+lines = 8
+gtk_dark = true
+# hide_search = true

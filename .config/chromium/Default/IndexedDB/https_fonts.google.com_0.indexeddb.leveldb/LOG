@@ -1,0 +1,6 @@
+2024/02/13-00:18:10.464 9953 Creating DB /home/tf/.config/chromium/Default/IndexedDB/https_fonts.google.com_0.indexeddb.leveldb since it was missing.
+2024/02/13-00:18:10.475 9953 Reusing MANIFEST /home/tf/.config/chromium/Default/IndexedDB/https_fonts.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/13-00:18:33.865 9954 Level-0 table #5: started
+2024/02/13-00:18:33.872 9954 Level-0 table #5: 132532 bytes OK
+2024/02/13-00:18:33.877 9954 Delete type=0 #3
+2024/02/13-00:18:33.878 9954 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,30 +1,3 @@
-2024/02/10-18:55:23.998 8cfd Reusing MANIFEST /home/tf/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2024/02/10-18:55:24.000 8cfd Recovering log #50
-2024/02/10-18:55:24.014 8cfd Reusing old log /home/tf/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000050.log 
-2024/02/10-19:57:11.007 8cfd Level-0 table #58: started
-2024/02/10-19:57:11.055 8cfd Level-0 table #58: 2789476 bytes OK
-2024/02/10-19:57:11.060 8cfd Delete type=0 #50
-2024/02/10-19:57:11.704 8cfd Level-0 table #60: started
-2024/02/10-19:57:11.747 8cfd Level-0 table #60: 1588353 bytes OK
-2024/02/10-19:57:11.752 8cfd Delete type=0 #57
-2024/02/10-19:57:12.736 8cfd Level-0 table #62: started
-2024/02/10-19:57:12.770 8cfd Level-0 table #62: 2126911 bytes OK
-2024/02/10-19:57:12.777 8cfd Delete type=0 #59
-2024/02/10-19:59:13.164 8cfd Level-0 table #64: started
-2024/02/10-19:59:13.213 8cfd Level-0 table #64: 3545783 bytes OK
-2024/02/10-19:59:13.218 8cfd Delete type=0 #61
-2024/02/10-19:59:13.220 8cfd Compacting 4@0 + 4@1 files
-2024/02/10-19:59:13.294 8cfd Generated table #65@0: 9 keys, 2730701 bytes
-2024/02/10-19:59:13.343 8cfd Generated table #66@0: 9 keys, 2783621 bytes
-2024/02/10-19:59:13.381 8cfd Generated table #67@0: 2 keys, 2465959 bytes
-2024/02/10-19:59:13.398 8cfd Generated table #68@0: 11 keys, 775848 bytes
-2024/02/10-19:59:13.398 8cfd Compacted 4@0 + 4@1 files => 8756129 bytes
-2024/02/10-19:59:13.403 8cfd compacted to: files[ 0 4 1 0 0 0 0 ]
-2024/02/10-19:59:13.403 8cfd Delete type=2 #58
-2024/02/10-19:59:13.403 8cfd Delete type=2 #52
-2024/02/10-19:59:13.403 8cfd Delete type=2 #62
-2024/02/10-19:59:13.403 8cfd Delete type=2 #54
-2024/02/10-19:59:13.403 8cfd Delete type=2 #60
-2024/02/10-19:59:13.403 8cfd Delete type=2 #55
-2024/02/10-19:59:13.403 8cfd Delete type=2 #53
-2024/02/10-19:59:13.403 8cfd Delete type=2 #64
+2024/02/13-01:57:34.540 ff5c Reusing MANIFEST /home/tf/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/02/13-01:57:34.540 ff5c Recovering log #128
+2024/02/13-01:57:34.552 ff5c Reusing old log /home/tf/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000128.log 

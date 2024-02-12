@@ -1,3 +1,3 @@
-2024/02/10-13:09:31.791 26c Reusing MANIFEST /home/tf/.config/chromium/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
-2024/02/10-13:09:31.791 26c Recovering log #3
-2024/02/10-13:09:31.792 26c Reusing old log /home/tf/.config/chromium/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/000003.log 
+2024/02/12-18:32:08.819 26a Reusing MANIFEST /home/tf/.config/chromium/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/12-18:32:08.820 26a Recovering log #4
+2024/02/12-18:32:08.820 26a Reusing old log /home/tf/.config/chromium/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/000004.log 

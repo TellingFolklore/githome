@@ -11,6 +11,8 @@ PS1='[\u@\h \W]\$ '
 
 alias ls='ls -al'
 
+
+
 alias power='upower -d | tail -n 9 | head -n 1'
 
 alias gitb='/usr/bin/git --git-dir=$HOME/git_bare/ --work-tree=$HOME'
@@ -27,3 +29,9 @@ alias gitb='/usr/bin/git --git-dir=$HOME/git_bare/ --work-tree=$HOME'
     alias dmenuapply='cd ~/.config/suckless/dmenu/ && make && sudo make clean install'
     alias stapply='cd ~/.config/suckless/st/ && make && sudo make clean install'
     alias slapply='cd ~/.config/suckless/slstatus/ && make && sudo make clean install'
+
+#
+### wayland aliases
+#
+    alias swayconfig='nano $HOME/.config/sway/config'
+    alias footconfig='nano $HOME/.config/foot/foot.ini'

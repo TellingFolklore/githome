@@ -1,3 +1,12 @@
-2024/02/10-21:51:40.664 8cfc Reusing MANIFEST /home/tf/.config/chromium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/02/10-21:51:40.665 8cfc Recovering log #4
-2024/02/10-21:51:40.694 8cfc Reusing old log /home/tf/.config/chromium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000004.log 
+2024/02/12-22:55:54.803 73bd Reusing MANIFEST /home/tf/.config/chromium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/12-22:55:54.803 73bd Recovering log #4
+2024/02/12-22:55:54.954 73bd Reusing old log /home/tf/.config/chromium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000004.log 
+2024/02/12-22:56:05.816 73bd Level-0 table #8: started
+2024/02/12-22:56:05.850 73bd Level-0 table #8: 1480449 bytes OK
+2024/02/12-22:56:05.856 73bd Delete type=0 #4
+2024/02/12-22:56:07.141 73bc Compacting 1@1 + 1@2 files
+2024/02/12-22:56:07.183 73bc Generated table #9@1: 2404 keys, 129057 bytes
+2024/02/12-22:56:07.183 73bc Compacted 1@1 + 1@2 files => 129057 bytes
+2024/02/12-22:56:07.188 73bc compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/12-22:56:07.189 73bc Delete type=2 #8
+2024/02/12-22:56:07.189 73bc Delete type=2 #5
